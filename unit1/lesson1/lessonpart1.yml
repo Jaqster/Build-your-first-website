@@ -1,3 +1,44 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart1
-title: Page 1
+title: The World Wide Web
+content: >
+  The World Wide Web, commonly referred to as the Web, is a vast information
+  system that allows documents and other web resources to be accessed over the
+  Internet. It was invented by Tim Berners-Lee in 1989 and has since transformed
+  how we communicate, learn, and conduct business.
+
+
+  At its core, the Web is built on three fundamental technologies:
+
+
+  1. **HTML (Hypertext Markup Language):** This is the standard language used to
+  create and design web pages. HTML provides the structure of a webpage,
+  allowing you to define elements like headings, paragraphs, links, and images.
+
+
+  2. **HTTP (Hypertext Transfer Protocol):** This protocol is used for
+  transferring data over the web. It defines how messages are formatted and
+  transmitted, and how web servers and browsers should respond to various
+  commands.
+
+
+  3. **URLs (Uniform Resource Locators):** These are the addresses used to
+  access resources on the web. A URL specifies the location of a resource and
+  the protocol used to access it.
+
+
+  The Web operates on a client-server model. When you enter a URL in your web
+  browser, the browser (client) sends a request to a web server. The server then
+  processes the request and sends back the requested web page, which the browser
+  displays.
+
+
+  The World Wide Web is distinct from the Internet, which is the global network
+  of interconnected computers. The Web is one of the services that run on the
+  Internet, alongside others like email and file transfer.
+
+
+  Understanding the Web's foundational technologies is crucial as you embark on
+  building your first website. You'll be using HTML to create the structure of
+  your site, and you'll learn how browsers and servers communicate to bring your
+  web pages to life.
