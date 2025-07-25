@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart2
+title: Introduction to HTML
+content: >
+  **Introduction to HTML**
+
+
+  HTML, or Hypertext Markup Language, is the standard language used to create
+  web pages. It provides the basic structure of a website, which is then
+  enhanced and modified by other technologies like CSS and JavaScript.
+
+
+  ### What is HTML?
+
+
+  HTML is a markup language, which means it uses tags to annotate text, images,
+  and other content for display in a web browser. These tags tell the browser
+  how to display the content on the page.
+
+
+  ### Basic Structure of an HTML Document
+
+
+  An HTML document is made up of elements, each defined by a start tag and an
+  end tag. Here's a simple example of an HTML document:
+
+
+  ```html
+
+  <!DOCTYPE html>
+
+  <html>
+
+  <head>
+      <title>My First Web Page</title>
+  </head>
+
+  <body>
+      <h1>Welcome to My Website</h1>
+      <p>This is my first paragraph of text on my web page.</p>
+  </body>
+
+  </html>
+
+  ```
+
+
+  - **`<!DOCTYPE html>`**: This declaration defines the document type and
+  version of HTML.
+
+  - **`<html>`**: The root element that contains all other HTML elements.
+
+  - **`<head>`**: Contains meta-information about the document, such as its
+  title.
+
+  - **`<title>`**: Sets the title of the web page, which appears in the browser
+  tab.
+
+  - **`<body>`**: Contains the content of the web page, such as text, images,
+  and links.
+
+  - **`<h1>`**: A heading element, with `<h1>` being the largest and most
+  important.
+
+  - **`<p>`**: A paragraph element used to define blocks of text.
+
+
+  ### Why Learn HTML?
+
+
+  Understanding HTML is essential for anyone looking to create or manage web
+  content. It is the foundation upon which all web pages are built, and learning
+  it is the first step in web development.
+
+
+  In the next lessons, we'll dive deeper into HTML and explore how to style and
+  add interactivity to your web pages using CSS and JavaScript.

@@ -4,3 +4,4 @@ title: Lesson 1
 description: In Lesson 1 we'll explore the basic concepts and how the internet works.
 lessonParts:
   - lessonpart1.yml
+  - lessonpart2.yml
